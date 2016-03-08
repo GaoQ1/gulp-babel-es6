@@ -1,0 +1,1 @@
+{"version":3,"sources":["demo.js"],"names":[],"mappings":";;AAAA,IAAM,CAAC,GAAG,EAAE,CAAC;AACb,IAAI,CAAC,GAAG,GAAG,CAAC","file":"demo.js","sourcesContent":["const x = 10;\r\nlet y = 100;"],"sourceRoot":"/source/"}
